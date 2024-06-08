@@ -13,7 +13,7 @@ public class LaunchLoreal_Test {
 		driver.get("https://www.lorealparis.co.in/");
 //		String url = System.getProperty("url");
 //		driver.get(url);
-		Thread.sleep(3000);
+		Thread.sleep(4000);
 		driver.quit();
 	}
 }
